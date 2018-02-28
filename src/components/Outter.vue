@@ -6,7 +6,7 @@
     <p v-show="c">这是文字能隐藏的</p>
     <p>这是文字{{fullName}}</p>
     <button v-on:click="foo">按钮</button>
-    <p>我被电击了{{count}}次</p>
+    <p>我被sdadasd{{count}}次</p>
     <input type="text" v-model="info">
   </div>
 </template>
